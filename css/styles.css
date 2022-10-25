@@ -1,0 +1,57 @@
+body {
+  color: #212121;
+  background-color: #f5f5f5;
+}
+/* header */
+.header {
+    background-color: #FFFFFF;
+}
+.list {
+  list-style: none;
+}
+.logo, .header.link.current{
+  color: #2196f3;
+text-decoration: none;
+}
+.logo-part {
+  color: #000000;
+}
+.link{
+    color:#212121 ;
+    text-decoration: none;
+}
+.link:hover, .link:focus{
+    color: #2196F3;
+}
+.contacts {
+    color: #757575;
+    text-decoration: none;
+}
+.contacts:hover,
+.contacts:focus {
+    color: #2196F3;    
+}
+/* main-hero */
+.hero {
+    color: #FFFFFF;
+    background-color: #2F303A;
+}
+.button {
+    color: #FFFFFF;
+    background-color:#2196F3;
+}
+.button:hover,
+.button:focus {
+    color: #188CE8,;
+}
+/* features */
+.content {
+    color: #757575;
+}
+/* work */
+
+
+/* team */
+.position {
+color:#757575;
+}
