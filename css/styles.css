@@ -135,6 +135,7 @@ background-color: #2f303a;
 }
 .contacts-footer {
 color: var(--primary-telmail-color);
+text-decoration: none;
 }
 .adress {
   color: var(--secondary-text-color);
